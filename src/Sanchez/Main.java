@@ -3,7 +3,9 @@ package Sanchez;
 public class Main {
 
     public static void main (String[] args) {
+
         System.out.println("Hello my name is Phabel");
+        System.out.println("Hello Phabel, my name is Ema");
     }
-    }
+}
 
