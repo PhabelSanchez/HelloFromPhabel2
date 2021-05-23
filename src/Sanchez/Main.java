@@ -6,6 +6,7 @@ public class Main {
 
         System.out.println("Hello my name is Phabel");
         System.out.println("Hello Phabel, my name is Ema");
+        System.out.println("This is an extra line for your stretch challenge if you want");
     }
 }
 
